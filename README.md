@@ -1,4 +1,7 @@
 # Human_Motion_Data_Assembly_Tasks
+
+This dataset is created for better understandind human behaviors in assembly tasks, with a focus on the upper limb motion.
+
 ## Task Description
 This data includes 5 tasks. Each task requires the human to use LEGO pieces to assemble an object. The goal objects are different for different tasks, but they may share common LEGO pieces. For each trial, the human subject was given one of the following goal images. The human then used the component pieces on the table to assemble the goal object based on his/her understanding.
 
