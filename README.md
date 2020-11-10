@@ -22,4 +22,5 @@ The motion data was recorded using the [Intel RealSense D415](https://www.intelr
 
 ## Data Format
 The data focuses on the human arm motion throughout the tasks, including the shoulders, elbows, and wrists. The data is stored as trajectories of the joints. 
-The trajectory profiles are in the form of (Left Wrist XYZ, Right Wrist XYZ, Left Elbow XYZ, Right Elbow XYZ, Left Shoulder XYZ, Right Shoulder XYZ).
+The trajectory profiles are in the form of
+* [Left Wrist XYZ, Right Wrist XYZ, Left Elbow XYZ, Right Elbow XYZ, Left Shoulder XYZ, Right Shoulder XYZ].
