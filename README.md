@@ -3,6 +3,7 @@
 This data includes 5 tasks. Each task requires the human to use LEGO pieces to assemble an object. The goal objects are different for different tasks, but they may share common LEGO pieces. For each trial, the human subject was given one of the following goal images. The human then used the component pieces on the table to assemble the goal object based on his/her understanding.
 
 ### Task Goal Objects
+<img src="Task1/goal.jpg" width="48">
 ![Task 1 Goal](Task1/goal.jpg?v=4&s=100)
 ![Task 2 Goal](Task2/goal.jpg)
 ![Task 3 Goal](Task3/goal.jpg)
@@ -11,6 +12,7 @@ This data includes 5 tasks. Each task requires the human to use LEGO pieces to a
 
 ### Sample Assembly Trial
 Click for the video.
+
 [![Sample Assembly Trial](https://i9.ytimg.com/vi/7v2ai8FNSSk/mq2.jpg?sqp=CLSCq_0F&rs=AOn4CLChNs8Sz-9MYE1ADDS18MPYsW4rXQ)](https://youtu.be/7v2ai8FNSSk)
 
 ## Data Collection
