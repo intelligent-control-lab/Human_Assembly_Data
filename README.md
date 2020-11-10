@@ -4,11 +4,11 @@ This data includes 5 tasks. Each task requires the human to use LEGO pieces to a
 
 ### Task Goal Objects
 <p align="center">
-  <img src="Task1/goal.jpg" width="150">
-  <img src="Task2/goal.jpg" width="150">
-  <img src="Task3/goal.jpg" width="150">
-  <img src="Task4/goal.jpg" width="150">
-  <img src="Task5/goal.jpg" width="150">
+  <img src="Task1/goal.jpg" width="170">
+  <img src="Task2/goal.jpg" width="170">
+  <img src="Task3/goal.jpg" width="170">
+  <img src="Task4/goal.jpg" width="170">
+  <img src="Task5/goal.jpg" width="170">
 </p>
 
 ### Sample Assembly Trial
